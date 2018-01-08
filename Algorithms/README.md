@@ -1,2 +1,2 @@
 # Algorithms
-
+ The very word **algorithm** originated from a Persian author **_Abu Ja'far Mohammed ibn al Khowarizmi_**,his name was Latinized as **Algoritmi** and **Algorismi**. He was first person to teach algebra as an independent study of its own and introduced methods of "reducing" and "balancing" mathematical equations(such as cancellation of like terms on opposite sides of an equation). He is described as father of algebra. 
